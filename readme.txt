@@ -62,7 +62,7 @@ This plugin requires the Ultimate Member plugin.
 3. Done!
 
 == Frequently Asked Questions ==
-
+*
 = Where do I add a custom tab? =
 
 In the Wordpress Admin menu, go to Ultimate Member -> Profile Tabs
